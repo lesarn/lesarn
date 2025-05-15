@@ -10,7 +10,7 @@
 <hr/>
 <p>
 
-> ### _Hi there 👋 I'm Karoney_
+> ### _Hi there 👋 I'm Ezekiel T_
 
 </p>
 <ul type="None">
@@ -144,28 +144,28 @@
 </p>
 
 
-<img src="https://github-readme-streak-stats-vercel-zeta.vercel.app/?user=karoney-kn&theme=default&hide_border=true&dates=664b2b&sideLabels=664b2b&border=f0cd7b&stroke=664c2b&ring=664c2b&fire=664b2b&currStreakNum=664c2b&sideNums=664c2b&currStreakLabel=664c2b&background=f0cd7b" width="100%"/>
+<img src="https://github-readme-streak-stats-vercel-zeta.vercel.app/?user=lesarn&theme=default&hide_border=true&dates=664b2b&sideLabels=664b2b&border=f0cd7b&stroke=664c2b&ring=664c2b&fire=664b2b&currStreakNum=664c2b&sideNums=664c2b&currStreakLabel=664c2b&background=f0cd7b" width="100%"/>
 
 
 
-<img src="https://github-readme-stats-k4xr.vercel.app/api?username=karoney-kn&show_icons=true&bg_color=80,f0cd7b,f1ce7d,f5e58d,f4e892,81613a,f2cf7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-stats-k4xr.vercel.app/api?username=lesarn&show_icons=true&bg_color=80,f0cd7b,f1ce7d,f5e58d,f4e892,81613a,f2cf7b&title_color=4B311A&text_color=000&count_private=true&hide_border=true" width="100%"/>
 
 <p> 
 
 > ##### *Visitor Count* &nbsp; 
 
 </p>
-<img src="https://profile-counter.glitch.me/{karoney-kn}/count.svg" alt="Visitor Count (01/01/20 onwards)">
+<img src="https://profile-counter.glitch.me/{lesarn}/count.svg" alt="Visitor Count (01/01/20 onwards)">
 </td>
    </tr>
 
 </table>
 <!-- Activity graph -->
 
-[![Karoney's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karoney-kn&theme=&github-compact&bg_color=none&color=808080&line=32CD32&point=32CD32&area=true&area_color=32CD32&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Tirop's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lesarn&theme=&github-compact&bg_color=none&color=808080&line=32CD32&point=32CD32&area=true&area_color=32CD32&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--
-[![Karoney's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=karoney-kn&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Tirop's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lesarn&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 -->
 
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=003f6a&height=120&section=footer"/>
