@@ -10,7 +10,7 @@
 <hr/>
 <p>
 
-> ### _Hi there 👋 I'm Ezekiel T_
+> ### _Hi there 👋 I'm Ezekiel Tirop_
 
 </p>
 <ul type="None">
